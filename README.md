@@ -1,2 +1,2 @@
 # hello-world
-hi
+I like to ski in the winter. The help guide to me to do it.
